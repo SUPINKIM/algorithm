@@ -1,10 +1,6 @@
 function solution(participant, completion) {
-  let list = [...participant]
-  completion.forEach(p => {
-      const index = list.indexOf(p)
-      if (index !== -1) {
-          list.splice(index, 1)
-      }
-  })
-  return list[0]
+  participant.sort()
+  completion.sort()
+
+  return participant.find((v, i) => participant[i] !== completion[i])
 }
