@@ -15,3 +15,4 @@
 
 >### Homework
 - [기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979) | [Code](programers-base-station-installation.js)
+- [숫자 게임](https://programmers.co.kr/learn/courses/30/lessons/12987) | [Code](programers-number-game.js)
