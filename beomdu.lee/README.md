@@ -12,3 +12,6 @@
 - [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [Code](programers-124.js)
 - [스킬 트리](https://programmers.co.kr/learn/courses/30/lessons/49993) | [Code](programers-skill-tree.js)
 - [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | [Code](programers-function-implementation.js)
+
+>### Homework
+- [기지국 설치](https://programmers.co.kr/learn/courses/30/lessons/12979) | [Code](programers-base-station-installation.js)
