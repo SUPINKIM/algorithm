@@ -1,14 +1,11 @@
 function solution(A, B) {
-  let index = 0
-  let score = 0
   let sortA = A.sort((a, b) => a - b)
   let sortB = B.sort((a, b) => a - b)
+  let index = 0
 
+  console.log(sortA, sortB)
   for(let i=0, l=B.length; i<l; i++) {
-      if (sortA[index] < sortB[i]) {
-          score += 1
-          index += 1
-      }
+      if (sortA[index] < sortB[i]) { index += 1 }
   }
-  return score
+  return index
 }
