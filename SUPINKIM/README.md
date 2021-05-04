@@ -14,6 +14,7 @@
 - [스킬트리](./Programmers/skilltree.js) | [• 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/49993)
 - [숫자게임](./Programmers/numGame.js) | [• 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12987)
 - [기지국 설치하기](./Programmers/baseStation.js) | [• 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/12979)
+- [순위 검색](./Programmers/rankSearch.js) | [• 문제 보기](https://programmers.co.kr/learn/courses/30/lessons/72412)
 
 ## BOJ(백준 온라인 저지)
 
