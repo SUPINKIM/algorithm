@@ -22,3 +22,5 @@
 
 - [스택](./dataStructure/stack.md)
 - [큐](./dataStructure/queue.md)
+- [트리](./dataStructure/tree.md)
+- [링크드리스트](./dataStructure/linkedList.md)
