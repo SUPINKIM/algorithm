@@ -37,3 +37,5 @@
 - [14502. 연구소(code)](./BOJ/lab.js) | [문제 보기](https://www.acmicpc.net/problem/14502)
 
 - [16929. Two Dots(code)](./BOJ/TwoDots.js) | [문제 보기](https://www.acmicpc.net/problem/16929)
+
+- [1107. 리모컨(code)](./BOJ/remote.js) | [문제 보기](https://www.acmicpc.net/problem/1107)
