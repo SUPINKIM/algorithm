@@ -39,3 +39,7 @@
 - [16929. Two Dots(code)](./BOJ/TwoDots.js) | [문제 보기](https://www.acmicpc.net/problem/16929)
 
 - [1107. 리모컨(code)](./BOJ/remote.js) | [문제 보기](https://www.acmicpc.net/problem/1107)
+
+- [16940. BFS 스페셜 저지(code)](./BOJ/bfsSpecial.js) | [문제 보기](https://www.acmicpc.net/problem/16940)
+
+- [16964. DFS 스페셜 저지(code)](./BOJ/dfsSpecial.js) | [문제 보기](https://www.acmicpc.net/problem/16964)
