@@ -1,0 +1,86 @@
+using System;
+using System.Collections.Generic;
+
+
+namespace ConsoleApp1
+{
+    class Program
+    { //C#에서는 using System.Collections.Generic; 을 사용하면 stack구조를 이용할 수 있다.
+     
+      
+        static Stack<int> stack = new Stack<int>();
+        
+        static void test1()
+        {
+            stack.Push(1);
+            stack.Push(2);
+            Top();
+            Size();
+            Empty();
+            POP();
+            POP();
+            POP();
+            Size();
+            Empty();
+            POP();
+            stack.Push(3);
+            Empty();
+            Top();
+        }
+        static void test2()
+        {
+            POP();
+            Top();
+            stack.Push(123);
+            Top();
+            POP();
+            Top();
+            POP();
+
+        }
+
+        static void Main(string[] args)
+        {
+            test2();
+            
+        }
+        static void Top()
+        {
+            if (stack.Count == 0)
+            {
+                Console.WriteLine(-1);
+            }
+            else
+            {
+                Console.WriteLine(stack.Peek());
+            }
+        }
+        static void Size()
+        {
+            Console.WriteLine(stack.Count);
+        }
+        static void Empty()
+        {
+            if (stack.Count == 0)
+            {
+                Console.WriteLine(1);
+            }
+            else
+            {
+                Console.WriteLine(0);
+            }
+        }
+        static void POP()
+        {
+            if(stack.Count == 0)
+             {
+                Console.WriteLine(-1);
+            }
+             else
+            {
+                Console.WriteLine(stack.Pop());
+            }
+        }
+
+    }
+}
