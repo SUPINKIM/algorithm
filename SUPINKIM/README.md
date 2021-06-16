@@ -49,3 +49,5 @@
 - [11576. Base Conversion(code)](./BOJ/baseConversion.js) | [문제 보기](https://www.acmicpc.net/problem/11576)
 
 - [2250. 트리의 높이와 너비(code)](./BOJ/treeHeightWidth.js) | [문제 보기](https://www.acmicpc.net/problem/2250)
+
+- [15651. N과 M(3)(code)](./BOJ/n_m3.js) | [문제 보기](https://www.acmicpc.net/problem/15651)
