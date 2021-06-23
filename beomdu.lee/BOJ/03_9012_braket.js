@@ -39,26 +39,17 @@ let input = fs.readFileSync('/dev/stdin').toString().split('\n');
 
 for (let i=0, l=input.length; i<l; i++) {
 	for (let j=0, k=input[i].length; j<k; j++) {
-		if (input[i][j] === '(') {
-			cmdObj.push('(')
-		}
-		if (cmdObj.size() === 0) {
-			answer += 'NO'
-			break
-		}
-		if (input[i][j] === ')') {
-			cmdObj.pop()
-		}
-		if (j === k-1 && cmdObj.size() === 0) {
-			answer += 'YES'
-		}
-		if (j === k-1 && cmdObj.size() !== 0) {
-			answer += 'NO'
+		input[i][j] === '(' ? cmdObj.push('(')
+			: cmdObj.size() !== 0 ? cmdObj.pop()
+			: cmdObj.push(')')
+
+		if (j === k-1) {
+			answer += cmdObj.size() === 0 ? 'YES' : 'NO'
+			answer += '\n'
 		}
 	}
 	stack = []
 	pick = 0
-	answer += '\n'
 }
 
 console.log(answer);
