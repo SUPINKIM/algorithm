@@ -1,4 +1,4 @@
-const stack = [];
+let stack = [];
 let pick = 0;
 let answer = '';
 
@@ -28,20 +28,28 @@ const cmdObj = {
 
 const fs = require('fs');
 let input = fs.readFileSync('/dev/stdin').toString().split('\n');
-// let input = ['I am happy today', 'We want to win the first prize']
+// let input = [
+// 	'(())())',
+// 	'(((()())()',
+// 	'(()())((()))',
+// 	'((()()(()))(((())))()',
+// 	'()()()()(()()())()',
+// 	'(()((())()('
+// ]
 
-for (var i=0, l=input.length; i<l; i++) {
-	for (var j=0, k=input[i].length; j<k; j++) {
-		const t = input[i][j]
-		if(t === ' ' || j === k-1) {
-			while(cmdObj.size() !== 0) {
-				answer += cmdObj.pop()
-			}
-			answer += t
-		} else {
-			cmdObj.push(t)
+for (let i=0, l=input.length; i<l; i++) {
+	for (let j=0, k=input[i].length; j<k; j++) {
+		input[i][j] === '(' ? cmdObj.push('(')
+			: cmdObj.size() !== 0 ? cmdObj.pop()
+			: cmdObj.push(')')
+
+		if (j === k-1) {
+			answer += cmdObj.size() === 0 ? 'YES' : 'NO'
+			answer += '\n'
 		}
 	}
-	answer += '\n'
+	stack = []
+	pick = 0
 }
+
 console.log(answer);
