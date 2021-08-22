@@ -53,3 +53,5 @@
 - [2250. 트리의 높이와 너비(code)](./BOJ/treeHeightWidth.js) | [문제 보기](https://www.acmicpc.net/problem/2250)
 
 - [15651. N과 M(3)(code)](./BOJ/n_m3.js) | [문제 보기](https://www.acmicpc.net/problem/15651)
+
+- [12865. 평범한 배낭(code)](./BOJ/knapsack.js) | [문제 보기](https://www.acmicpc.net/problem/12865)
