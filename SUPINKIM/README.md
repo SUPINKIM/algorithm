@@ -32,6 +32,8 @@
 
 - [경주로 건설(code)](./Programmers/track.js) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/67259)
 
+- [2개 이하로 다른 비트(code)](./Programmers/tranformBinary.js) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/77885)
+
 ## BOJ(백준 온라인 저지)
 
 - [1167.트리의 지름(code)](./BOJ/treeDiameter.js) | [문제 보기](https://www.acmicpc.net/problem/1167)
@@ -51,3 +53,5 @@
 - [2250. 트리의 높이와 너비(code)](./BOJ/treeHeightWidth.js) | [문제 보기](https://www.acmicpc.net/problem/2250)
 
 - [15651. N과 M(3)(code)](./BOJ/n_m3.js) | [문제 보기](https://www.acmicpc.net/problem/15651)
+
+- [12865. 평범한 배낭(code)](./BOJ/knapsack.js) | [문제 보기](https://www.acmicpc.net/problem/12865)
