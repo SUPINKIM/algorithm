@@ -55,3 +55,5 @@
 - [15651. N과 M(3)(code)](./BOJ/n_m3.js) | [문제 보기](https://www.acmicpc.net/problem/15651)
 
 - [12865. 평범한 배낭(code)](./BOJ/knapsack.js) | [문제 보기](https://www.acmicpc.net/problem/12865)
+
+- [14889. 스타트와 링크(code)](./BOJ/startvslink.js) | [문제 보기](https://www.acmicpc.net/problem/14889)
