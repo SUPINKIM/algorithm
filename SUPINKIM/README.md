@@ -57,3 +57,9 @@
 - [12865. 평범한 배낭(code)](./BOJ/knapsack.js) | [문제 보기](https://www.acmicpc.net/problem/12865)
 
 - [14889. 스타트와 링크(code)](./BOJ/startvslink.js) | [문제 보기](https://www.acmicpc.net/problem/14889)
+
+- [16947. 서울 지하철 2호선(code)](./BOJ/line2.js) | [문제 보기](https://www.acmicpc.net/problem/16947)
+
+- [2146. 다리 만들기(code)](./BOJ/bridge.js) | [문제 보기](https://www.acmicpc.net/problem/2146)
+
+- [2146. N과 M(4)(code)](./BOJ/nm4.js) | [문제 보기](https://www.acmicpc.net/problem/15652)
