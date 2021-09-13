@@ -69,3 +69,5 @@
 - [13913. 숨바꼭질4(code)](./BOJ/hideandshow.js) | [문제 보기](https://www.acmicpc.net/problem/13913)
 
 - [14391. 종이조각(code)](./BOJ/paper.js) | [문제 보기](https://www.acmicpc.net/problem/14391)
+
+- [10026. 적록색약(code)](./BOJ/rgb.js) | [문제 보기](https://www.acmicpc.net/problem/10026)
