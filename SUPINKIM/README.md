@@ -69,3 +69,11 @@
 - [13913. 숨바꼭질4(code)](./BOJ/hideandshow.js) | [문제 보기](https://www.acmicpc.net/problem/13913)
 
 - [14391. 종이조각(code)](./BOJ/paper.js) | [문제 보기](https://www.acmicpc.net/problem/14391)
+
+- [10026. 적록색약(code)](./BOJ/rgb.js) | [문제 보기](https://www.acmicpc.net/problem/10026)
+
+- [2357. 최댓값과 최솟값(code)](./BOJ/minandmax.js) | [문제 보기](https://www.acmicpc.net/problem/2357)
+
+- [13398. 연속합2(code)](./BOJ/sequence.js) | [문제 보기](https://www.acmicpc.net/problem/13398)
+
+- [2042. 구간 합 구하기(code)](./BOJ/partsum.js) | [문제 보기](https://www.acmicpc.net/problem/2042)
