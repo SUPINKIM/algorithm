@@ -81,3 +81,5 @@
 - [14395. 4연산(code)](./BOJ/operation4.js) | [문제 보기](https://www.acmicpc.net/problem/14395)
 
 - [16928. 뱀과 사다리 게임(code)](./BOJ/snakesandladders.js) | [문제 보기](https://www.acmicpc.net/problem/16928)
+
+- [16928. 조합 0의 개수(code)](./BOJ/count0.js) | [문제 보기](https://www.acmicpc.net/problem/2004)
