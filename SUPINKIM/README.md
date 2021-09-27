@@ -85,3 +85,5 @@
 - [2004. 조합 0의 개수(code)](./BOJ/count0.js) | [문제 보기](https://www.acmicpc.net/problem/2004)
 
 - [3273. 두 수의 합(code)](./BOJ/sum.js) | [문제 보기](https://www.acmicpc.net/problem/3273)
+
+- [7569. 토마토(code)](./BOJ/tomato2.js) | [문제 보기](https://www.acmicpc.net/problem/7569)
