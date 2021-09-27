@@ -82,4 +82,6 @@
 
 - [16928. 뱀과 사다리 게임(code)](./BOJ/snakesandladders.js) | [문제 보기](https://www.acmicpc.net/problem/16928)
 
-- [16928. 조합 0의 개수(code)](./BOJ/count0.js) | [문제 보기](https://www.acmicpc.net/problem/2004)
+- [2004. 조합 0의 개수(code)](./BOJ/count0.js) | [문제 보기](https://www.acmicpc.net/problem/2004)
+
+- [3273. 두 수의 합(code)](./BOJ/sum.js) | [문제 보기](https://www.acmicpc.net/problem/3273)
