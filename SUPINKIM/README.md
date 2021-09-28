@@ -89,3 +89,5 @@
 - [7569. 토마토(code)](./BOJ/tomato2.js) | [문제 보기](https://www.acmicpc.net/problem/7569)
 
 - [2580. 스도쿠(code)](./BOJ/sudoku.js) | [문제 보기](https://www.acmicpc.net/problem/2580)
+
+- [1021. 회전하는 큐(code)](./BOJ/turnqueue.js) | [문제 보기](https://www.acmicpc.net/problem/1021)
