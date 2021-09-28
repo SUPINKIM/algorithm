@@ -87,3 +87,5 @@
 - [3273. 두 수의 합(code)](./BOJ/sum.js) | [문제 보기](https://www.acmicpc.net/problem/3273)
 
 - [7569. 토마토(code)](./BOJ/tomato2.js) | [문제 보기](https://www.acmicpc.net/problem/7569)
+
+- [2580. 스도쿠(code)](./BOJ/sudoku.js) | [문제 보기](https://www.acmicpc.net/problem/2580)
