@@ -93,3 +93,5 @@
 - [1021. 회전하는 큐(code)](./BOJ/turnqueue.js) | [문제 보기](https://www.acmicpc.net/problem/1021)
 
 - [5430. AC(code)](./BOJ/ac.js) | [문제 보기](https://www.acmicpc.net/problem/5430)
+
+- [2470. 두 용액(code)](./BOJ/twoliquid.js) | [문제 보기](https://www.acmicpc.net/problem/2470)
