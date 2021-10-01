@@ -82,4 +82,22 @@
 
 - [16928. 뱀과 사다리 게임(code)](./BOJ/snakesandladders.js) | [문제 보기](https://www.acmicpc.net/problem/16928)
 
-- [16928. 조합 0의 개수(code)](./BOJ/count0.js) | [문제 보기](https://www.acmicpc.net/problem/2004)
+- [2004. 조합 0의 개수(code)](./BOJ/count0.js) | [문제 보기](https://www.acmicpc.net/problem/2004)
+
+- [3273. 두 수의 합(code)](./BOJ/sum.js) | [문제 보기](https://www.acmicpc.net/problem/3273)
+
+- [7569. 토마토(code)](./BOJ/tomato2.js) | [문제 보기](https://www.acmicpc.net/problem/7569)
+
+- [2580. 스도쿠(code)](./BOJ/sudoku.js) | [문제 보기](https://www.acmicpc.net/problem/2580)
+
+- [1021. 회전하는 큐(code)](./BOJ/turnqueue.js) | [문제 보기](https://www.acmicpc.net/problem/1021)
+
+- [5430. AC(code)](./BOJ/ac.js) | [문제 보기](https://www.acmicpc.net/problem/5430)
+
+- [2470. 두 용액(code)](./BOJ/twoliquid.js) | [문제 보기](https://www.acmicpc.net/problem/2470)
+
+- [1976. 여행 가자(code)](./BOJ/gotravel.js) | [문제 보기](https://www.acmicpc.net/problem/1976)
+
+- [11051. 이항 계수2(code)](./BOJ/gotravel.js) | [문제 보기](https://www.acmicpc.net/problem/11051)
+
+- [6603. 로또(code)](./BOJ/gotravel.js) | [문제 보기](https://www.acmicpc.net/problem/6603)
