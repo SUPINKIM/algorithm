@@ -97,3 +97,7 @@
 - [2470. 두 용액(code)](./BOJ/twoliquid.js) | [문제 보기](https://www.acmicpc.net/problem/2470)
 
 - [1976. 여행 가자(code)](./BOJ/gotravel.js) | [문제 보기](https://www.acmicpc.net/problem/1976)
+
+- [11051. 이항 계수2(code)](./BOJ/gotravel.js) | [문제 보기](https://www.acmicpc.net/problem/11051)
+
+- [6603. 로또(code)](./BOJ/gotravel.js) | [문제 보기](https://www.acmicpc.net/problem/6603)
