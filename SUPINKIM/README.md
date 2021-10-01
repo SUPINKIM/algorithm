@@ -101,3 +101,5 @@
 - [11051. 이항 계수2(code)](./BOJ/gotravel.js) | [문제 보기](https://www.acmicpc.net/problem/11051)
 
 - [6603. 로또(code)](./BOJ/gotravel.js) | [문제 보기](https://www.acmicpc.net/problem/6603)
+
+- [12100. 2048 (Easy)(code)](./BOJ/2048.js) | [문제 보기](https://www.acmicpc.net/problem/12100)
