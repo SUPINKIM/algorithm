@@ -105,3 +105,5 @@
 - [6603. 로또(code)](./BOJ/gotravel.js) | [문제 보기](https://www.acmicpc.net/problem/6603)
 
 - [12100. 2048 (Easy)(code)](./BOJ/2048.js) | [문제 보기](https://www.acmicpc.net/problem/12100)
+
+- [17404. RGB거리 2 (Easy)(code)](./BOJ/rgb2.js) | [문제 보기](https://www.acmicpc.net/problem/17404)
