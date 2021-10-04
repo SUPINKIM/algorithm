@@ -106,4 +106,8 @@
 
 - [12100. 2048 (Easy)(code)](./BOJ/2048.js) | [문제 보기](https://www.acmicpc.net/problem/12100)
 
-- [17404. RGB거리 2 (Easy)(code)](./BOJ/rgb2.js) | [문제 보기](https://www.acmicpc.net/problem/17404)
+- [17404. RGB거리 2(code)](./BOJ/rgb2.js) | [문제 보기](https://www.acmicpc.net/problem/17404)
+
+- [1309. 동물원(code)](./BOJ/zoo.js) | [문제 보기](https://www.acmicpc.net/problem/1309)
+
+- [16968. 차량 번호판 1(code)](./BOJ/carnumber.js) | [문제 보기](https://www.acmicpc.net/problem/16968)
