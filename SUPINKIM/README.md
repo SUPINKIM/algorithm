@@ -113,3 +113,5 @@
 - [1309. 동물원(code)](./BOJ/zoo.js) | [문제 보기](https://www.acmicpc.net/problem/1309)
 
 - [16968. 차량 번호판 1(code)](./BOJ/carnumber.js) | [문제 보기](https://www.acmicpc.net/problem/16968)
+
+- [1761. 정점들의 거리(code)](./BOJ/carnumber.js) | [문제 보기](https://www.acmicpc.net/problem/1761)
