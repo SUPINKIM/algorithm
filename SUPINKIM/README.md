@@ -36,6 +36,8 @@
 
 - [다단계 칫솔 판매(code)](./Programmers/toothbrush.js) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/77486)
 
+- [110 옮기기(code)](./Programmers/110.js) | [문제 보기](https://programmers.co.kr/learn/courses/30/lessons/77886)
+
 ## BOJ(백준 온라인 저지)
 
 - [1167.트리의 지름(code)](./BOJ/treeDiameter.js) | [문제 보기](https://www.acmicpc.net/problem/1167)
@@ -105,3 +107,13 @@
 - [6603. 로또(code)](./BOJ/gotravel.js) | [문제 보기](https://www.acmicpc.net/problem/6603)
 
 - [12100. 2048 (Easy)(code)](./BOJ/2048.js) | [문제 보기](https://www.acmicpc.net/problem/12100)
+
+- [17404. RGB거리 2(code)](./BOJ/rgb2.js) | [문제 보기](https://www.acmicpc.net/problem/17404)
+
+- [1309. 동물원(code)](./BOJ/zoo.js) | [문제 보기](https://www.acmicpc.net/problem/1309)
+
+- [16968. 차량 번호판 1(code)](./BOJ/carnumber.js) | [문제 보기](https://www.acmicpc.net/problem/16968)
+
+- [1761. 정점들의 거리(code)](./BOJ/carnumber.js) | [문제 보기](https://www.acmicpc.net/problem/1761)
+
+- [16954. 움직이는 미로 탈출(code)](./BOJ/movingmaze.js) | [문제 보기](https://www.acmicpc.net/problem/16954)
