@@ -117,3 +117,5 @@
 - [1761. 정점들의 거리(code)](./BOJ/carnumber.js) | [문제 보기](https://www.acmicpc.net/problem/1761)
 
 - [16954. 움직이는 미로 탈출(code)](./BOJ/movingmaze.js) | [문제 보기](https://www.acmicpc.net/problem/16954)
+
+- [1062. 움직이는 미로 탈출(code)](./BOJ/movingmaze.js) | [문제 보기](https://www.acmicpc.net/problem/1062)
