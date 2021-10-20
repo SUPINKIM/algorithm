@@ -118,4 +118,6 @@
 
 - [16954. 움직이는 미로 탈출(code)](./BOJ/movingmaze.js) | [문제 보기](https://www.acmicpc.net/problem/16954)
 
-- [1062. 움직이는 미로 탈출(code)](./BOJ/movingmaze.js) | [문제 보기](https://www.acmicpc.net/problem/1062)
+- [1062. 가르침(code)](./BOJ/teaching.js) | [문제 보기](https://www.acmicpc.net/problem/1062)
+
+- [2109. 순회 강연(code)](./BOJ/lecture.js) | [문제 보기](https://www.acmicpc.net/problem/2109)
