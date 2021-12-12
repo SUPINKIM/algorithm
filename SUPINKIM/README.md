@@ -121,3 +121,7 @@
 - [1062. 가르침(code)](./BOJ/teaching.js) | [문제 보기](https://www.acmicpc.net/problem/1062)
 
 - [2109. 순회 강연(code)](./BOJ/lecture.js) | [문제 보기](https://www.acmicpc.net/problem/2109)
+
+- [11066. 파일 합치기(code)](./BOJ/filecombine.js) | [문제 보기](https://https://www.acmicpc.net/problem/11066)
+
+- [1927. 최소힙(code)](./BOJ/min_heap.js) | [문제 보기](https://www.acmicpc.net/problem/1927)
